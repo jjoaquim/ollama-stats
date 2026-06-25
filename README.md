@@ -8,6 +8,10 @@ A lightweight **macOS menu-bar app** for keeping an eye on your local [Ollama](h
 
 The whole app is a single Swift file — no Xcode project, no dependencies beyond the system SwiftUI/AppKit frameworks.
 
+<p align="center">
+  <img src="screenshot.png" alt="Ollama Dashboard screenshot">
+</p>
+
 ## Features
 
 - **Connection status & version** — green/red indicator and the running Ollama version.
